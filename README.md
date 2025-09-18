@@ -32,9 +32,14 @@
 4. Documentation including methodology, challenges, and recommendations.
   
 ## Dashboard Interaction
-[Dashboard](https://github.com/Haywhydave/Coffee-Shop-Sales-Analysis/blob/main/Dasboard(Coffee%20Sales).jpg)
+[Bedsure Dashboard](https://github.com/Haywhydave/Amazon-Product-Review-Sentiment-Analysis-Visualization-Python-SQL-Power-BI-/blob/main/Dashboard(Bedsure).png)
 ## Tools used
--	Excel (Power Query, PivotTables, Slicers).
+-	Amazon Review Scraper (for data collection)
+- Excel (data cleaning)
+- SQL Server (database creation)
+- Python (EDA & sentiment analysis)
+- Power BI (dashboards & visualizations)
+  
 ## Process
 - I Verified data for any missing values and anomalies and sorted out the same.
 - I made sure data is consistent and clean with respect to data type, data format and values used. - I created Pivot tables according to the questions asked.
