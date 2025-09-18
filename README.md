@@ -1,6 +1,6 @@
 # Amazon-Product-Review-Sentiment-Analysis (Using Ms Excel-Python-SQL-Power-BI)
 ## Project Objective
--This project explores end-to-end analysis of Amazon product reviews using Ms Excel, Python, SQL, and Power BI to uncover customer sentiment, trends, and business insights.
+- This project explores end-to-end analysis of Amazon product reviews using Ms Excel, Python, SQL, and Power BI to uncover customer sentiment, trends, and business insights.
 
 
 ## Data Set link Used
@@ -14,16 +14,23 @@
 3.  Design and implement a relational database schema tailored for storing product reviews.
 4. Include relevant fields such as review_id, product_name, reviewer_name, review_text, rating, review_date, reviewer, etc.
 5. Deliver an Entity-Relationship Diagram (ERD).
-- Data Analysis: Perform Exploratory Data Analysis (EDA) to uncover patterns in ratings, review frequency, and recurring themes.
-6. Carry out sentiment analysis (positive, negative, neutral classification).
-7. Identify pain points and customer satisfaction drivers.
+- Data Analysis:
+6. Perform Exploratory Data Analysis (EDA) to uncover patterns in ratings, review frequency, and recurring themes.
+7. Carry out sentiment analysis (positive, negative, neutral classification).
+8. Identify pain points and customer satisfaction drivers.
 - Data Visualization (Power BI):
-8. Build dashboards to visualize sentiment distribution, rating trends, common keywords, and user satisfaction levels.
-9. Highlight correlations
+9. Build dashboards to visualize sentiment distribution, rating trends, common keywords, and user satisfaction levels.
+10. Highlight correlations
 - Documentation:
-10. Document your workflow, methodologies, and challenges faced.
-11. Summarize key findings and expert recommendations for improving the product.
+11. Document your workflow, methodologies, and challenges faced.
+12. Summarize key findings and expert recommendations for improving the product.
 
+## Deliverables
+1. Jupyter Notebook with data extraction and analysis code.
+2. ERD Diagram of the database schema.
+3. Power BI Dashboard with visualizations.
+4. Documentation including methodology, challenges, and recommendations.
+  
 ## Dashboard Interaction
 [Dashboard](https://github.com/Haywhydave/Coffee-Shop-Sales-Analysis/blob/main/Dasboard(Coffee%20Sales).jpg)
 ## Tools used
