@@ -48,7 +48,8 @@
 
 ## Dashboard
 <img width="1425" height="802" alt="Dashboard(Bedsure)" src="https://github.com/user-attachments/assets/f019dcee-d970-405e-a847-cf11e0c188e4" />
-<img width="876" height="485" alt="Dashboard(Bedscape)" src="https://github.com/user-attachments/assets/4a98835e-80b4-4aaf-9551-7b4bd4665bba" />
+<img width="876" height="485" alt="Dashboard(Breescape)" src="https://github.com/user-attachments/assets/6061e39e-bdb0-42f1-bf2b-801c7720a6da" />
+
 
 ## KEY INSIGHTS
 - Bedsure Product
