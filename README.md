@@ -34,8 +34,7 @@
   
 ## Dashboard Interaction
 [Bedsure Dashboard](https://github.com/Haywhydave/Amazon-Product-Review-Sentiment-Analysis-Visualization-Python-SQL-Power-BI-/blob/main/Dashboard(Bedsure).png)
-[Breescape Dashboard](https://github.com/Haywhydave/Amazon-Product-Review-Sentiment-Analysis-Visualization-Python-SQL-Power-BI-/blob/main/Dashboard(Bedscape).png)
-
+[Breescape Dashboard](https://github.com/Haywhydave/Amazon-Product-Review-Sentiment-Analysis-Visualization-Python-SQL-Power-BI-/blob/main/Dashboard(Breescape).png)
 ## ERD Diagram
 [ERD Diagram](https://github.com/Haywhydave/Amazon-Product-Review-Sentiment-Analysis-Visualization-Python-SQL-Power-BI-/blob/main/ERD.png)
 ## Tools used
