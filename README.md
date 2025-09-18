@@ -4,7 +4,8 @@
 
 
 ## Data Set link Used
-[Dataset](https://github.com/Haywhydave/Coffee-Shop-Sales-Analysis/blob/main/coffeeOrdersData.xlsx)
+[Bedsure Dataset](https://github.com/Haywhydave/Amazon-Product-Review-Sentiment-Analysis-Visualization-Python-SQL-Power-BI-/blob/main/Bedsure.Amazon.sql)
+[Bedscape Dataset](https://github.com/Haywhydave/Amazon-Product-Review-Sentiment-Analysis-Visualization-Python-SQL-Power-BI-/blob/main/Breescape.Amazon.sql)
 
 ## Task Description
 - Data Extraction:
@@ -33,44 +34,44 @@
   
 ## Dashboard Interaction
 [Bedsure Dashboard](https://github.com/Haywhydave/Amazon-Product-Review-Sentiment-Analysis-Visualization-Python-SQL-Power-BI-/blob/main/Dashboard(Bedsure).png)
+[Bedscape Dashboard](https://github.com/Haywhydave/Amazon-Product-Review-Sentiment-Analysis-Visualization-Python-SQL-Power-BI-/blob/main/Dashboard(Bedscape).png)
+
+## ERD Diagram
+[ERD Diagram](https://github.com/Haywhydave/Amazon-Product-Review-Sentiment-Analysis-Visualization-Python-SQL-Power-BI-/blob/main/ERD.png)
 ## Tools used
 -	Amazon Review Scraper (for data collection)
-- Excel (data cleaning)
-- SQL Server (database creation)
-- Python (EDA & sentiment analysis)
-- Power BI (dashboards & visualizations)
+- Ms Excel (for data cleaning)
+- SQL Server (for database creation)
+- Python (for EDA & sentiment analysis)
+- Power BI (for visualizations of insights & dashboards)
   
-## Process
-- I Verified data for any missing values and anomalies and sorted out the same.
-- I made sure data is consistent and clean with respect to data type, data format and values used. - I created Pivot tables according to the questions asked.
-- I merged all pivot tables into one dashboard and applied slicers to make it dynamic.
-
-
-
-
 
 ## Dashboard
- 
+<img width="1425" height="802" alt="Dashboard(Bedsure)" src="https://github.com/user-attachments/assets/f019dcee-d970-405e-a847-cf11e0c188e4" />
+<img width="876" height="485" alt="Dashboard(Bedscape)" src="https://github.com/user-attachments/assets/4a98835e-80b4-4aaf-9551-7b4bd4665bba" />
+
 ## KEY INSIGHTS
-1.	Top Customers Drive Growth
-A small group of loyal customers significantly contributes to overall sales, showing the importance of building strong retention and loyalty programs.
-2.	Balanced Coffee Preferences
-Sales distribution among Ara. (26.67%), Rob. (24.73%), Lib. (24.05%), and Exc. (24.56%) shows no single coffee type dominates, indicating a diverse range of customer tastes.
-3.	Sales by Country Show Growth Opportunities
-Some countries account for higher sales volumes than others, suggesting expansion strategies can target underperforming regions to balance market reach.
-4.	Roast Type Influences Sales
-Dark roast varieties are consistently preferred, highlighting an opportunity to feature more dark roast options in promotions.
-5.	Customer Loyalty Matters
-Customers with loyalty cards tend to spend more, suggesting that investing in loyalty rewards can boost repeat purchases and overall sales.
-6.	Seasonal or Time-Based Trends
-Sales vary across months/years, showing patterns that can help plan promotions during peak and low-demand periods.
-7.	Top 10 Customers Highlight Personalization Value
-The top 10 customers contribute a sizable portion of total sales — personalized offers for them could further increase revenue.
+- Bedsure Product
+1. Strong Positive Sentiment: The majority of Bedsure reviews (84.6%) are positive, indicating high customer satisfaction. Customers frequently praise the product's softness, comfort, and overall quality.
+2. Minimal Negative Feedback: Only a small percentage of reviews (8.6%) were negative. These low ratings often mention the fabric's thinness and concerns about long-term durability.
+3. Stable Rating Trends: The product's ratings have remained consistently high over time.
+- Breescape Product
+1. Highly Valued Cooling Feature: Positive reviews for Breescape frequently highlight its cooling comfort, breathability, and smooth texture, confirming its main value proposition.
+2. Fit Issues Drive Negative Reviews: Neutral and negative ratings (2 and 3 stars) are linked to complaints about poor fit, loose corners, and the sheets slipping off mattresses.
+3. "Helpful" Reviews are Positive: The reviews marked as "helpful" by other buyers are mostly positive (4 or 5 stars), suggesting that satisfied customers significantly influence purchasing decisions.
 
 
-• ## Recommendation
-- Boost top markets: Strengthen U.S. presence while growing sales in Ireland and the UK.
-- Reward loyalty: Nurture top customers with perks, exclusives, and tailored offers.
-- Promote variety: Encourage mix-and-match packs to tap into balanced coffee demand.
-- Grow small spenders: Engage mid-tier customers with targeted promos and education.
-- Act on insights: Use the dashboard for quick, data-driven business decisions.
+## Recommendation
+- Bedsure Product
+1. Highlight Strengths: Emphasize comfort and softness in marketing materials and product listings.
+2. Address Weaknesses: Investigate and address concerns about durability and fabric thickness.
+3. Customer Retention: Proactively engage with dissatisfied customers to rebuild trust and reduce churn.
+- Breescape Product
+1. Leverage USP: Highlight the cooling and breathable properties in marketing campaigns to differentiate from competitors.
+2. Improve Product Design: Strengthen the product's design by addressing fit and size consistency, which are the main sources of dissatisfaction.
+3. Encourage Detailed Reviews: Encourage satisfied customers to write more in-depth reviews, as these are more likely to be considered "helpful" by other buyers
+
+## Overall Conclusion
+- Both Bedsure and Breescape products have strong customer approval, with a majority of reviews reflecting positive sentiment. However, each brand has distinct challenges to address to improve customer satisfaction and competitive positioning: Bedsure needs to address fabric durability concerns, while Breescape should focus on resolving fit-related issues.
+
+By addressing these weaknesses and leveraging their respective strengths in marketing, both companies can improve their market standing
